@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GLENNnygard001
 - 👀 I’m interested in embedded and Python
-- 🌱 I’m currently learning CircuitPython
+- 🌱 I’m currently learning Python
 - 💞️
 - 📫 eMail and messages are good to collaborate
 
