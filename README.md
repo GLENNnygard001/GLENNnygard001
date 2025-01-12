@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GLENNnygard001
-- 👀 I’m interested in embedded and Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in embedded C, Arduino WiFiManager, and Python
+- 🌱 I’m currently learning CircuitPython 
 - 💞️
 - 📫 eMail and messages are good to collaborate
 
